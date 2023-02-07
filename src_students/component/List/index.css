@@ -1,0 +1,19 @@
+table{
+    margin: 0 auto;
+    width: 800px; 
+    border-collapse: collapse;
+}
+thead{
+    border-bottom: 2px solid #ccc;
+    height: 50px;
+}
+
+
+
+button{
+    width: 30px;
+    height: 25px;
+    /* border-radius: 15px; */
+    /* border-color: transparent; */
+    /* background-color: yellowgreen; */
+}
